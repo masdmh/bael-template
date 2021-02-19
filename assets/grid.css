@@ -236,3 +236,10 @@ nav .r {
     visibility: visible;
   }
 }
+.tile-image {
+  max-height: 40vh;
+  border-bottom: 1px solid rgba(119, 119, 119, 0.4);
+  width: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}

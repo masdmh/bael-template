@@ -12,9 +12,9 @@
           <nuxt-link
             class="xs-text-center xs-flex xs-full-height xs-flex-align-center xs-flex-justify-center xs-text-center"
             :to="p.path"
-          >{{p.title}}</nuxt-link>
+          ><img draggable="false" class="featured-image" loading="lazy" :src="{{p.thumbnail}}" :alt="{{p.title}}" /></nuxt-link>
 		  
-		  {{p.thumbnail}}
+		  
         </div>
       </div>
     </div>

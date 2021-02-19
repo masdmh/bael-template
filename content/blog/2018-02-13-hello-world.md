@@ -1,10 +1,9 @@
 ---
-title: Welcome to Bael, a free Nuxt / NetlifyCMS powered blog template
-date: Tuesday February 13th, 2018
-thumbnail: /images/uploads/bael-big.jpg
+title: Genesis 1:1
+date: Friday February 19th, 2021
+thumbnail: /images/uploads/episode-1.jpg
+category: Genesis
 ---
-**Bael is a free template that gives you an easy way to start a blog that uses modern technologies like static-site JAMstack architecture, CSS grid layout, responsive design, a serverless function that handles emails newsletter signup with Sendgrid, and fuzzy search — all wrapped up in a brutalist aesthetic.**
+# **In the beginning**
 
-Bael runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), and is hosted by [Netlify](https://netlify.com). Bael requires an account with Netlify and Github/Gitlab to deploy. A free Sendgrid account and API key is needed to setup the email newsletter signup.
-
-Made by [jake101](https://jake101.com)
+Although it can be challenging for us to go beyond the question “I wonder how we got here?”, it has many benefits to do so.

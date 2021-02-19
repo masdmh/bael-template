@@ -1,25 +1,25 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
+  "sitename": "Bible in Ten",
+  "sitedescription": "10 minutes in search of Christ Jesus.",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
-  "menu": [
-    {
-      "name": "jake101",
-      "position": "1",
-      "link": "https://www.jake101.com/"
-    },
-    {
-      "name": "Nuxt.js",
+  "menu": [  
+	{
+      "name": "Visual Bible",
       "position": "2",
-      "link": "https://www.nuxtjs.org/"
+      "link": "https://www.youtube.com/watch?v=EqmHNQhdLUM&feature=youtu.be"
     },
     {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
-    }
+      "name": "Gospel of John",
+      "position": "2",
+      "link": "https://www.biblegateway.com/passage/?search=John%201&version=ICB"
+    },
+    {
+      "name": "Superior Word",
+      "position": "1",
+      "link": "http://www.superiorword.org/"
+    },
   ]
 }

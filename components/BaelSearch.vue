@@ -42,7 +42,7 @@ export default {
       this.articles = await this.$content("blog")
         .only(["title", "path"])
         .sortBy("createdAt", "desc")
-        .limit(12)
+        .limit(6)
         .search(query)
         .fetch();
     },

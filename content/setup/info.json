@@ -1,12 +1,12 @@
 {
   "sitename": "Bible in Ten",
   "sitedescription": "10 minutes in search of Christ Jesus.",
-  "siteicon": "/images/uploads/icon.png",
+  "siteicon": "/images/uploads/10-minutes-in-search-of-christ-jesus-0-4.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": false,
-  "menu": [  
-	{
+  "altlayout": true,
+  "menu": [
+    {
       "name": "Visual Bible",
       "position": "2",
       "link": "https://www.youtube.com/watch?v=EqmHNQhdLUM&feature=youtu.be"
@@ -21,5 +21,6 @@
       "position": "1",
       "link": "http://www.superiorword.org/"
     }
-  ]
+  ],
+  "linkcolor": "#0000ff"
 }
